@@ -8,6 +8,6 @@ i = 0
 while i < len(arr):
      if arr[i] % 2 == 0:
         arr1.append(arr[i])
-    i = i + 1
+     i = i + 1
 print(arr1)
 

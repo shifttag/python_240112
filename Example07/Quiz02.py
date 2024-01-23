@@ -7,6 +7,6 @@
 '''
 q = int(input("양의 정수를 하나 입력하시요"))
 i = 1
-while i < 6:
-    print("{} * {} = {} ".format(q, i, (q*i)))
+while i <= q:
+    print(i * 3, end=' ')
     i = i + 1
