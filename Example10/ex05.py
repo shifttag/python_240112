@@ -22,5 +22,10 @@ def 함수명(매개변수):
 def add1(a, b):
     return a + b
 
-num1 = 10; num2 = 20
+def add2(a,b,c):
+    ave = (a + b + c) / 3
+    return ave
+
+num1 = 10; num2 = 20; num3 = 30
 print("num1 + num2의 결과 :", add1(num1, num2))
+print(add2(num1,num2,num3))
