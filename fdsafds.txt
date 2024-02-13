@@ -1,0 +1,8 @@
+current File
+adfs
+new
+Run에서 모듈 주소 flask
+Environment variables : PYTHONUNBUFFERED=1;FLASK_APP=main.py;FLASK_ENV=dev
+
+talend api타고 들어가서 주소 적고 (주소/sign)
+포스트 요청
